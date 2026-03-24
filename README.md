@@ -1,10 +1,5 @@
 # ⚡ PowerPulse: Time-Series Forecasting 
 ### Architecture Prédictive de Consommation Électrique
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/api?type=waving&color=00d2ff&height=200&section=header&text=PowerPulse%20ML&fontSize=70&animation=fadeIn" width="100%" alt="Header PowerPulse" />
-</p>
-
 ---
 
 ## 🌟 Vision du Projet
@@ -36,7 +31,6 @@ Comment anticiper la demande énergétique d'un foyer avec précision ? **PowerP
 * 📅 **Modèle Day-Ahead :** Gain de **+18.9% de précision** pour l'optimisation des marchés de gros.
 
 ### 3. Visualisation des Résultats 📊
-*(Conseil : Ajoute ici ton image `Capture d'écran...` en la téléchargeant sur ton GitHub et en remplaçant le lien ci-dessous)*
 ![Aperçu des résultats](https://via.placeholder.com/800x400.png?text=Insère+ta+capture+d'écran+ici)
 
 ---
